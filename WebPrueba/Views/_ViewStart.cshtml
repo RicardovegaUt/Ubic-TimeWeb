@@ -1,0 +1,18 @@
+﻿@{
+    var controller = this.ViewContext.RouteData.Values["controller"].ToString();
+    var action = this.ViewContext.RouteData.Values["action"].ToString();
+
+
+
+    if (controller == "Admin" && action == "Index" || controller == "Admin" && action == "Contacto" || controller == "Admin" && action == "Ruta" || controller == "Admin" && action == "Notificacion")
+    {
+        Layout = "_DashboardLayout";
+    }
+
+    else
+    {
+        Layout = "_Layout";
+    }
+
+ }
+

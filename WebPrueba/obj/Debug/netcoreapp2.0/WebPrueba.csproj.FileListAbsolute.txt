@@ -1,0 +1,22 @@
+C:\Users\Ricardo\source\repos\WebPrueba\WebPrueba\bin\Debug\netcoreapp2.0\WebPrueba.deps.json
+C:\Users\Ricardo\source\repos\WebPrueba\WebPrueba\bin\Debug\netcoreapp2.0\WebPrueba.runtimeconfig.json
+C:\Users\Ricardo\source\repos\WebPrueba\WebPrueba\bin\Debug\netcoreapp2.0\WebPrueba.runtimeconfig.dev.json
+C:\Users\Ricardo\source\repos\WebPrueba\WebPrueba\bin\Debug\netcoreapp2.0\WebPrueba.dll
+C:\Users\Ricardo\source\repos\WebPrueba\WebPrueba\bin\Debug\netcoreapp2.0\WebPrueba.pdb
+C:\Users\Ricardo\source\repos\WebPrueba\WebPrueba\obj\Debug\netcoreapp2.0\WebPrueba.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\source\repos\WebPrueba\WebPrueba\obj\Debug\netcoreapp2.0\WebPrueba.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\source\repos\WebPrueba\WebPrueba\obj\Debug\netcoreapp2.0\WebPrueba.AssemblyInfoInputs.cache
+C:\Users\Ricardo\source\repos\WebPrueba\WebPrueba\obj\Debug\netcoreapp2.0\WebPrueba.AssemblyInfo.cs
+C:\Users\Ricardo\source\repos\WebPrueba\WebPrueba\obj\Debug\netcoreapp2.0\WebPrueba.dll
+C:\Users\Ricardo\source\repos\WebPrueba\WebPrueba\obj\Debug\netcoreapp2.0\WebPrueba.pdb
+C:\Users\Ricardo\source\Nueva carpeta\Respaldo\WebPrueba\WebPrueba\bin\Debug\netcoreapp2.0\WebPrueba.deps.json
+C:\Users\Ricardo\source\Nueva carpeta\Respaldo\WebPrueba\WebPrueba\bin\Debug\netcoreapp2.0\WebPrueba.runtimeconfig.json
+C:\Users\Ricardo\source\Nueva carpeta\Respaldo\WebPrueba\WebPrueba\bin\Debug\netcoreapp2.0\WebPrueba.runtimeconfig.dev.json
+C:\Users\Ricardo\source\Nueva carpeta\Respaldo\WebPrueba\WebPrueba\bin\Debug\netcoreapp2.0\WebPrueba.dll
+C:\Users\Ricardo\source\Nueva carpeta\Respaldo\WebPrueba\WebPrueba\bin\Debug\netcoreapp2.0\WebPrueba.pdb
+C:\Users\Ricardo\source\Nueva carpeta\Respaldo\WebPrueba\WebPrueba\obj\Debug\netcoreapp2.0\WebPrueba.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\source\Nueva carpeta\Respaldo\WebPrueba\WebPrueba\obj\Debug\netcoreapp2.0\WebPrueba.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\source\Nueva carpeta\Respaldo\WebPrueba\WebPrueba\obj\Debug\netcoreapp2.0\WebPrueba.AssemblyInfoInputs.cache
+C:\Users\Ricardo\source\Nueva carpeta\Respaldo\WebPrueba\WebPrueba\obj\Debug\netcoreapp2.0\WebPrueba.AssemblyInfo.cs
+C:\Users\Ricardo\source\Nueva carpeta\Respaldo\WebPrueba\WebPrueba\obj\Debug\netcoreapp2.0\WebPrueba.dll
+C:\Users\Ricardo\source\Nueva carpeta\Respaldo\WebPrueba\WebPrueba\obj\Debug\netcoreapp2.0\WebPrueba.pdb
